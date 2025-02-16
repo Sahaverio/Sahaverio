@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/@Anirban83642331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twiter.me/@anirban83642331" height="30" width="40" /></a>
+<a href="https://x.com/@Anirban83642331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twiter.me/@anirban83642331" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/anirban-das-a68460339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anirban-das-a68460339" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100041980900369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anirbandas1038" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anirban05._das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anirban05._das/" height="30" width="40" /></a>
